@@ -49,6 +49,7 @@ function App() {
       type: type,
     })
 
+    
     setTimeout(() => {
       setAlert(null)
     }, 1500)
